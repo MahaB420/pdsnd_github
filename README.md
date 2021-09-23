@@ -7,7 +7,8 @@
 Post your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+To complete this project, I will provide all the Git commands you used throughout this course in this template along with a link to my repository on GitHub. 
+
 
 ### Files used
 Include the files used
