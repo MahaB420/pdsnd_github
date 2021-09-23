@@ -7,7 +7,7 @@ CITY_DATA = {'chicago': 'chicago.csv',
              'washington': 'washington.csv'}
 CITY_NAME = ""
 # comment line 1
-
+# comment line 2
 
 def get_filters():
     """
